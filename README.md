@@ -1,6 +1,6 @@
 # Récupération (git clone)
 
-`git clone <url> <nom_projet>`
+`git clone https://github.com/formation-dwwm/es6-starter-kit.git [nom_projet?]`
 
 # Installation
 
